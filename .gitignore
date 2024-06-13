@@ -3,3 +3,4 @@ build
 npm-debug.log*
 src/components/Flags/Countries/*.tsx
 storybook-static
+.DS_Store

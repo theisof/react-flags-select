@@ -79,12 +79,6 @@
     "ts-jest": "^26.4.4",
     "typescript": "^4.1.3"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn lint",
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ekwonye-richard/react-flags-select.git"
